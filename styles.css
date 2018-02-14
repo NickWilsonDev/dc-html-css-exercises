@@ -1,0 +1,23 @@
+/* styles.css */
+img {
+    width: 250px;
+    height: 250px;
+}
+#row {
+    width: auto;
+    display: block;
+}
+#left_col {
+    display: inline-block;
+    vertical-align: top;
+    width: 48%; 
+}
+#right_col {
+    display: inline-block;
+    vertical-align: top;
+    width: 48%;
+}
+#text {
+    display: inline-block;
+    width: 35%;
+}

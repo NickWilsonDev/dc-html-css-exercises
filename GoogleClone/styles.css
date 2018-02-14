@@ -1,0 +1,14 @@
+/* styles.css */
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+footer {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    height: 100px;
+    background-color: #e6e6e6;
+}
