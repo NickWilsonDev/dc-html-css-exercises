@@ -13,11 +13,23 @@ footer {
     background-color: #e6e6e6;
 }
 
+a {
+    color: black;
+}
+
 #fsl {
     position: absolute;
+    left: 0;
+}
+
+#fsr {
+    position: absolute;
     right: 0;
+.buttons {
+    color: grey;
 }
 
 .buttons:hover {
     border: 1px solid black;
+    color: black;
 }
