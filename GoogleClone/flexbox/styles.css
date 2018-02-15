@@ -26,9 +26,16 @@ a:hover {
 
 .header-item {
     flex-direction: row;
-    flex-grow: 1;
-    justify-content: center;
+   
+    justify-content: space-around;
     align-items: center;
+    
+}
+
+.headerlink {
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: 2em;
 }
 
 .signinbutton {
